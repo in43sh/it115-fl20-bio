@@ -1,5 +1,12 @@
 My Bio
 
+Canvas
+https://canvas.seattlecentral.edu/profile
+LinkedIn
+https://www.linkedin.com/in/sergey-sherstobitov/
+Personal Website
+https://sherstobitov.us/
+
 Hi, my name is Sergey. I'm a junior web developer from Seattle with hands-on experience in building responsive and fast websites. I'm also a continuous learner, always looking for effective ways to overcome a challenge. In addition, I'm passionate about improving user’s interaction with a website.
 
 I've been mostly focused on my Front End skills, but I also have experience working with the Back End. On the Front End, I’ve been mostly using HTML, CSS, JS, on the Back End I’ve been mostly using PostgreSQL and NodeJS. I also have experience volunteering as a Computer Tutor back at my college. Right now, I'm working on my portfolio and preparing myself for the upcoming interviews.
